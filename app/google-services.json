@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232815469634",
+    "project_id": "carlok-d1f7d",
+    "storage_bucket": "carlok-d1f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232815469634:android:f089ad8c1ca919d85c39db",
+        "android_client_info": {
+          "package_name": "com.example.carlok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232815469634-r7ophueervrh9c03mr3ljt3mfl5auctt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5cPI2fj-SDJgJeeWmF0VDeN1HcqibZZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232815469634-r7ophueervrh9c03mr3ljt3mfl5auctt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

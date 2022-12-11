@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Carlok</string>
+    <string name="password_warning">Password tidak boleh kurang dari 6 karakter</string>
+    <string name="email_warning">Format Email Salah</string>
+    <string name="name_warning">Inputan Tidak Boleh kosong</string>
+    <string name="phone_warning">Format No Hp Salah</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="input_namejob">Masukkan Nama Pekerjaan</string>
+    <string name="input_jobplace">Masukkan Tempat Bekerja</string>
+    <string name="input_timeJob">Masukkan Waktu Bekerja</string>
+    <string name="input_deksKerja">Masukkan Deskripsi Pekerjaan</string>
+    <string name="btn_uploadwork">Upload</string>
+    <string name="nohp">No HandPhone</string>
+    <string name="copyright">Group@C22-210</string>
+    <string name="Admin">Admin</string>
+    <string name="User">User</string>
+    <string name="judul_halaman">Selamat Datang Di Aplikasi Cari Loker</string>
+    <string name="deskripsi_page">Cari Pekerjaan dan Pekerja disini!</string>
+    <string name="header_login">Masuk</string>
+    <string name="header_login_admin">Masuk Admin</string>
+    <string name="header_daftar">Daftar</string>
+    <string name="header_daftar_admin">Daftar Admin</string>
+    <string name="btnText_login">Masuk</string>
+    <string name="btnText_daftar">Daftar</string>
+    <string name="question">Belum Punya Akun?</string>
+    <string name="send_success">Berhasil terkirim</string>
+    <string name="send_error">Gagal terkirim</string>
+    <string name="Jobname">Nama Pekerjaan</string>
+    <string name="Tempatname">Tempatbekerja</string>
+    <string name="Ketjob">Ketjob</string>
+    <string name="pilihGambar">Pilih gambar</string>
+    <string name="logut">Keluar</string>
+    <string name="optionM">OptionMenu</string>
+</resources>
