@@ -18,4 +18,4 @@ FrameWork Yang digunakan :
 
 Screenshot aplikasi :
 
-![image.png](https://user-images.githubusercontent.com/109987104/206912353-160b3bf9-1cc5-43dd-81be-de8ae6d17216.jpeg)  
+![image.png](https://user-images.githubusercontent.com/109987104/206913477-d838662b-b257-4a33-8076-024a45bd1205.jpeg)  
