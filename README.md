@@ -7,10 +7,11 @@ Apa Itu Carlok?
  melalui aplikasi ini hanya dengan mengupload beberapa data diri yang dibutuhkan dalam persyaratan melamar pekerjaan. 
 Selain itu aplikasi ini juga memiliki sisi admin dimana pada sisi admin,admin dapat membuat lamaran pekerjaan. dengan melalui smartphone dimana admin mengupload beberapa persyaratan pekerjaan dan kemudian mempostingnya pada aplikasi.bukan hanya itu admin juga dapat mengedit lowongan pekerjaan yang dibuat dan juga dapat menghapusnya.
 
-*Tools Yang digunakan*
--Android Studio
--Figma
-*FrameWork Yang digunakan*
--Firebase storage
--Firestore dabase
--library Picasso
+Tools Yang digunakan : 
+- Android Studio
+- Figma
+
+FrameWork Yang digunakan : 
+- Firebase storage
+- Firestore dabase
+- library Picasso
